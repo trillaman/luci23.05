@@ -1,0 +1,10 @@
+Package: sysinfo
+Version: 20210313
+Depends: libc
+Source: package/sysinfo
+SourceName: sysinfo
+Section: utils
+SourceDateEpoch: 1615638987
+Architecture: all
+Installed-Size: 1713
+Description:  eko.one.pl Services

@@ -1,0 +1,11 @@
+Package: luci-app-ekooneplstat
+Version: 20220729
+Depends: libc, ekooneplstat
+Source: package/luci-app-ekooneplstat
+SourceName: luci-app-ekooneplstat
+Section: opt
+SourceDateEpoch: 1659099067
+Maintainer: Cezary Jackiewicz <cezary@eko.one.pl>
+Architecture: all
+Installed-Size: 1978
+Description:  LuCI Support for eko.one.pl Services

@@ -1,0 +1,13 @@
+Package: libparted
+Version: 3.6-1
+Depends: libc, libblkid1, libuuid1
+Source: package/parted
+SourceName: libparted
+License: GPL-3.0-or-later
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1686766608
+Maintainer: Oskari Rauta <oskari.rauta@gmail.com>
+Architecture: x86_64
+Installed-Size: 188654
+Description:  GNU Parted shared library

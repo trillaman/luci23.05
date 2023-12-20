@@ -1,0 +1,10 @@
+Package: luci-i18n-wifischedule-pl
+Version: git-23.301.56412-787ab17
+Depends: libc, luci-app-wifischedule
+Source: package/luci-app-wifischedule
+SourceName: luci-i18n-wifischedule-pl
+Section: luci
+SourceDateEpoch: 1698507612
+Architecture: all
+Installed-Size: 1253
+Description:  Translation for luci-app-wifischedule - Polski (Polish)

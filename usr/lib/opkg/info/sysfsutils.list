@@ -1,0 +1,4 @@
+/etc/init.d/sysfsutils
+/etc/sysfs.conf
+/usr/bin/systool
+/etc/sysfs.d/local.conf

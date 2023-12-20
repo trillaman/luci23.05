@@ -1,0 +1,11 @@
+Package: luci-app-attendedsysupgrade
+Version: git-23.306.39494-6f7b129
+Depends: libc, luci-base, attendedsysupgrade-common, cgi-io
+Source: package/luci-app-attendedsysupgrade
+SourceName: luci-app-attendedsysupgrade
+Section: luci
+SourceDateEpoch: 1698923143
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 4775
+Description:  LuCI support for attended sysupgrades

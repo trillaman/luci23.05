@@ -1,0 +1,10 @@
+Package: luci-i18n-opkg-pl
+Version: git-23.301.56412-787ab17
+Depends: libc, luci-app-opkg
+Source: package/luci-app-opkg
+SourceName: luci-i18n-opkg-pl
+Section: luci
+SourceDateEpoch: 1699390835
+Architecture: all
+Installed-Size: 2500
+Description:  Translation for luci-app-opkg - Polski (Polish)

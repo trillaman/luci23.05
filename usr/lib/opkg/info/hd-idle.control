@@ -1,0 +1,12 @@
+Package: hd-idle
+Version: 1.05-2
+Depends: libc
+Source: package/hd-idle
+SourceName: hd-idle
+License: GPL-2.0
+Section: utils
+SourceDateEpoch: 1549895114
+Maintainer: Lim Guo Wei <limguowei@gmail.com>
+Architecture: x86_64
+Installed-Size: 4558
+Description:  hd-idle is a utility program for spinning-down external disks after a period of idle time.

@@ -1,0 +1,16 @@
+Package: ath10k-firmware-qca9887-ct
+Version: 2020-11-08-1
+Depends: libc, ath10k-board-qca9887
+Conflicts: ath10k-firmware-qca9887
+Provides: ath10k-firmware-qca9887
+Source: package/ath10k-ct-firmware
+SourceName: ath10k-firmware-qca9887-ct
+Section: firmware
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 187656
+Description:  Alternative ath10k firmware for QCA9887 from Candela Technologies.
+ Enables IBSS and other features.  See:
+ http://www.candelatech.com/ath10k-10.1.php
+ This firmware conflicts with the standard 9887 firmware, so select only
+ one.

@@ -1,0 +1,11 @@
+Package: luci-i18n-dashboard-pl
+Version: git-23.301.56412-787ab17
+Depends: libc, luci-mod-dashboard
+Source: package/luci-mod-dashboard
+SourceName: luci-i18n-dashboard-pl
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1698922053
+Architecture: all
+Installed-Size: 1106
+Description:  Translation for luci-mod-dashboard - Polski (Polish)

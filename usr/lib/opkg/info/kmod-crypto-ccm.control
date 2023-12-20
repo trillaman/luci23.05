@@ -1,0 +1,11 @@
+Package: kmod-crypto-ccm
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-crypto-ctr, kmod-crypto-aead
+Source: package/linux
+SourceName: kmod-crypto-ccm
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 185
+Description:  Support for Counter with CBC MAC (CCM)

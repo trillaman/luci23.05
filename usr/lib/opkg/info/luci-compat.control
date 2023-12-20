@@ -1,0 +1,11 @@
+Package: luci-compat
+Version: git-22.297.83017-673f382
+Depends: libc, luci-lua-runtime, luci-lua-runtime
+Source: package/luci-compat
+SourceName: luci-compat
+Section: luci
+SourceDateEpoch: 1666652617
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 37899
+Description:  LuCI compatibility libraries

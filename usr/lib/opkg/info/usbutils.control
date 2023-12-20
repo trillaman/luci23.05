@@ -1,0 +1,13 @@
+Package: usbutils
+Version: 014-1
+Depends: libc, libusb-1.0-0, libudev, librt, libpthread
+Source: package/usbutils
+SourceName: usbutils
+License: GPL-2.0-only
+LicenseFiles: COPYING
+Section: utils
+SourceDateEpoch: 1629873092
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 54430
+Description:  USB devices listing utilities

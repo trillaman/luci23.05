@@ -1,0 +1,14 @@
+Package: sysfsutils
+Version: 2.1.0-4
+Depends: libc, libsysfs2
+Source: package/sysfsutils
+SourceName: sysfsutils
+License: LGPL-2.1
+LicenseFiles: COPYING cmd/GPL lib/LGPL
+Section: utils
+SourceDateEpoch: 1684680884
+CPE-ID: cpe:/a:sysfsutils_project:sysfsutils
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: x86_64
+Installed-Size: 8558
+Description:  A utility built upon libsysfs that lists devices by bus, class, and topology.

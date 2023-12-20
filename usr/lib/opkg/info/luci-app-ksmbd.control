@@ -1,0 +1,11 @@
+Package: luci-app-ksmbd
+Version: git-23.306.38649-cd4b8d5
+Depends: libc, ksmbd-server
+Source: package/luci-app-ksmbd
+SourceName: luci-app-ksmbd
+Section: luci
+SourceDateEpoch: 1698923143
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 2063
+Description:  Network Shares - Ksmbd the SMB kernel fileserver

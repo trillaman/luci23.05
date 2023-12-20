@@ -1,0 +1,11 @@
+Package: ath10k-board-qca9888
+Version: 20230804-1
+Depends: libc
+Source: package/linux-firmware
+SourceName: ath10k-board-qca9888
+Section: firmware
+SourceDateEpoch: 1684680884
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 7622
+Description:  ath10k qca9888 board firmware

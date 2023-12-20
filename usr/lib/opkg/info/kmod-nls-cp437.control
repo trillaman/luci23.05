@@ -1,0 +1,11 @@
+Package: kmod-nls-cp437
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-nls-base
+Source: package/linux
+SourceName: kmod-nls-cp437
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 2289
+Description:  Kernel module for NLS Codepage 437 (United States, Canada)

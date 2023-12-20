@@ -1,0 +1,13 @@
+Package: libkmod
+Version: 31-1
+Depends: libc, zlib
+Source: package/kmod
+SourceName: libkmod
+License: LGPL-2.1-or-later
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1697285945
+Maintainer: Jeff Waugh <jdub@bethesignal.org>
+Architecture: x86_64
+Installed-Size: 35932
+Description:  Linux kernel module handling (library)

@@ -1,0 +1,16 @@
+Package: libmount1
+Version: 2.39-2
+Depends: libc, libblkid1
+Provides: libmount
+Source: package/util-linux
+SourceName: libmount
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+SourceDateEpoch: 1684680884
+ABIVersion: 1
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: x86_64
+Installed-Size: 146908
+Description:  The libmount library is used to parse /etc/fstab, /etc/mtab and
+ /proc/self/mountinfo files, manage the mtab file, evaluate mount options...

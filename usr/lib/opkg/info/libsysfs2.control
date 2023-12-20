@@ -1,0 +1,17 @@
+Package: libsysfs2
+Version: 2.1.0-4
+Depends: libc
+Provides: libsysfs
+Source: package/sysfsutils
+SourceName: libsysfs
+License: LGPL-2.1
+LicenseFiles: COPYING cmd/GPL lib/LGPL
+Section: libs
+SourceDateEpoch: 1684680884
+ABIVersion: 2
+CPE-ID: cpe:/a:sysfsutils_project:sysfsutils
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: x86_64
+Installed-Size: 13701
+Description:  The library's purpose is to provide a consistant and stable interface for
+ querying system device information exposed through sysfs.

@@ -1,0 +1,2 @@
+/etc/modules.d/31-oid-registry
+/lib/modules/5.15.137/oid_registry.ko

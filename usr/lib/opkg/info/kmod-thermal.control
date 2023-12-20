@@ -1,0 +1,12 @@
+Package: kmod-thermal
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-hwmon-core
+Source: package/linux
+SourceName: kmod-thermal
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 96
+Description:  Thermal driver offers a generic mechanism for thermal management.
+ Usually it's made up of one or more thermal zone and cooling device.

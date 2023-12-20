@@ -1,0 +1,4 @@
+/usr/sbin/p910nd
+/etc/init.d/p910nd
+/etc/config/p910nd
+/etc/hotplug.d/usbmisc/20-p910nd

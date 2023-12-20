@@ -1,0 +1,10 @@
+Package: backupandrestore
+Version: 20230828
+Depends: libc
+Source: package/backupandrestore
+SourceName: backupandrestore
+Section: admin
+SourceDateEpoch: 1693333051
+Architecture: all
+Installed-Size: 883
+Description:  eko.one.pl services - backup and restore

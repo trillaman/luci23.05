@@ -1,0 +1,10 @@
+Package: luci-i18n-hd-idle-pl
+Version: git-23.281.54229-cd81f2f
+Depends: libc, luci-app-hd-idle
+Source: package/luci-app-hd-idle
+SourceName: luci-i18n-hd-idle-pl
+Section: luci
+SourceDateEpoch: 1696777429
+Architecture: all
+Installed-Size: 792
+Description:  Translation for luci-app-hd-idle - Polski (Polish)

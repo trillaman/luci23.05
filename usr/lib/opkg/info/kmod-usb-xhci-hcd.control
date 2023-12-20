@@ -1,0 +1,12 @@
+Package: kmod-usb-xhci-hcd
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-usb-core
+Source: package/linux
+SourceName: kmod-usb-xhci-hcd
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 232
+Description:  The eXtensible Host Controller Interface (xHCI) is standard for USB 3.0
+ "SuperSpeed" host controller hardware.

@@ -1,0 +1,11 @@
+Package: kmod-usb-acm
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-usb-core
+Source: package/linux
+SourceName: kmod-usb-acm
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 11874
+Description:  Kernel support for USB ACM devices (modems/isdn controllers)

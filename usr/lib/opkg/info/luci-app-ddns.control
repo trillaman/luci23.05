@@ -1,0 +1,12 @@
+Package: luci-app-ddns
+Version: git-23.158.77284-47a61bd
+Depends: libc, luci-mod-admin-full, luci-lua-runtime, ddns-scripts
+Source: package/luci-app-ddns
+SourceName: luci-app-ddns
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1698923143
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 12534
+Description:  LuCI Support for Dynamic DNS Client (ddns-scripts)

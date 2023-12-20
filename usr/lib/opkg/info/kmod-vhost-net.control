@@ -1,0 +1,11 @@
+Package: kmod-vhost-net
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-tun, kmod-vhost
+Source: package/linux
+SourceName: kmod-vhost-net
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 10346
+Description:  Host kernel accelerator for virtio-net

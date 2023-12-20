@@ -1,0 +1,12 @@
+Package: luci-proto-wireguard
+Version: git-23.306.39498-cbf7bbd
+Depends: libc, wireguard-tools, ucode
+Provides: luci-app-wireguard
+Source: package/luci-proto-wireguard
+SourceName: luci-proto-wireguard
+Section: luci
+SourceDateEpoch: 1698922698
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 10522
+Description:  Support for WireGuard VPN

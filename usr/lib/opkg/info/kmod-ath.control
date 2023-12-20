@@ -1,0 +1,11 @@
+Package: kmod-ath
+Version: 5.15.137+6.1.24-3
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-mac80211
+Source: package/mac80211
+SourceName: kmod-ath
+Section: kernel
+SourceDateEpoch: 1684680884
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 12650
+Description:  This module contains some common parts needed by Atheros Wireless drivers.

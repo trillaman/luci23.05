@@ -1,0 +1,10 @@
+Package: ekooneplstat
+Version: 20150706
+Depends: libc
+Source: package/ekooneplstat
+SourceName: ekooneplstat
+Section: admin
+SourceDateEpoch: 1686942918
+Architecture: all
+Installed-Size: 1123
+Description:  eko.one.pl services - statistics

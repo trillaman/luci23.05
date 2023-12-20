@@ -1,0 +1,12 @@
+Package: kmod-mt7921-common
+Version: 5.15.137+2023-08-14-b14c2351-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-mac80211, kmod-mt792x-common, kmod-mt7921-firmware, kmod-hwmon-core
+Source: package/mt76
+SourceName: kmod-mt7921-common
+License: GPLv2
+Section: kernel
+SourceDateEpoch: 1684680884
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 26314
+Description:  MediaTek MT7921 wireless driver common code

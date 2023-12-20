@@ -1,0 +1,15 @@
+Package: parted
+Version: 3.6-1
+Depends: libc, libparted, libreadline8, libncurses6
+Source: package/parted
+SourceName: parted
+License: GPL-3.0-or-later
+LicenseFiles: COPYING
+Section: utils
+SourceDateEpoch: 1686766608
+Maintainer: Oskari Rauta <oskari.rauta@gmail.com>
+Architecture: x86_64
+Installed-Size: 29096
+Description:  GNU Parted manipulates partition tables. This is useful for
+ creating space for new operating systems, reorganizing
+ disk usage, copying data on hard disks and disk imaging.

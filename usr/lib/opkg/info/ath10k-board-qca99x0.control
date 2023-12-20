@@ -1,0 +1,11 @@
+Package: ath10k-board-qca99x0
+Version: 20230804-1
+Depends: libc
+Source: package/linux-firmware
+SourceName: ath10k-board-qca99x0
+Section: firmware
+SourceDateEpoch: 1684680884
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 7558
+Description:  ath10k qca99x0 board firmware

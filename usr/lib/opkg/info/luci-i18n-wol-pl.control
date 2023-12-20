@@ -1,0 +1,10 @@
+Package: luci-i18n-wol-pl
+Version: git-23.281.54229-cd81f2f
+Depends: libc, luci-app-wol
+Source: package/luci-app-wol
+SourceName: luci-i18n-wol-pl
+Section: luci
+SourceDateEpoch: 1696777429
+Architecture: all
+Installed-Size: 997
+Description:  Translation for luci-app-wol - Polski (Polish)

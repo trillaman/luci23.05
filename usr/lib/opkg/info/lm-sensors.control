@@ -1,0 +1,13 @@
+Package: lm-sensors
+Version: 3.6.0-1
+Depends: libc, sysfsutils, libsensors5
+Source: package/lm-sensors
+SourceName: lm-sensors
+License: GPL-2.0-or-later LGPL-2.1-or-later
+Section: utils
+SourceDateEpoch: 1668810084
+CPE-ID: cpe:/a:lm_sensors:lm_sensors
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: x86_64
+Installed-Size: 8274
+Description:  utility to read hardware sensor data

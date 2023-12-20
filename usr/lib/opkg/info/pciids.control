@@ -1,0 +1,12 @@
+Package: pciids
+Version: 0.359-1
+Depends: libc
+Source: package/hwdata
+SourceName: pciids
+License: GPL-2.0-or-later  XFree86-1.0
+LicenseFiles: LICENSE
+Section: utils
+SourceDateEpoch: 1651680679
+Architecture: x86_64
+Installed-Size: 306361
+Description:  PCI ID list

@@ -1,0 +1,12 @@
+Package: wwan
+Version: 2019-04-29-6
+Depends: libc
+Source: package/wwan
+SourceName: wwan
+License: GPL-2.0
+Section: net
+SourceDateEpoch: 1684680884
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: x86_64
+Installed-Size: 10038
+Description:  Generic OpenWrt 3G/4G proto handler

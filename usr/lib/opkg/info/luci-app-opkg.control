@@ -1,0 +1,11 @@
+Package: luci-app-opkg
+Version: git-23.311.75635-769b30c
+Depends: libc, opkg
+Source: package/luci-app-opkg
+SourceName: luci-app-opkg
+Section: luci
+SourceDateEpoch: 1699390835
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 9151
+Description:  OPKG package management application

@@ -1,0 +1,11 @@
+Package: luci-app-hd-idle
+Version: git-21.322.37170-27ca2e2
+Depends: libc, hd-idle, lsblk
+Source: package/luci-app-hd-idle
+SourceName: luci-app-hd-idle
+Section: luci
+SourceDateEpoch: 1696777429
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1555
+Description:  Hard Disk Idle Spin-Down module

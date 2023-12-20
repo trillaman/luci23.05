@@ -1,0 +1,14 @@
+Package: chat
+Version: 2.4.9.git-2021-01-04-4
+Depends: libc
+Source: package/ppp
+SourceName: chat
+License: BSD-4-Clause
+Section: net
+SourceDateEpoch: 1684680884
+CPE-ID: cpe:/a:samba:ppp
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 9086
+Description:  This package contains an utility to establish conversation with other PPP servers
+ (via a modem).

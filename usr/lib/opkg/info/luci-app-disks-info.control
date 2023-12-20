@@ -1,0 +1,12 @@
+Package: luci-app-disks-info
+Version: 0.4-2
+Depends: libc, fdisk, smartmontools, smartmontools-drivedb
+Source: package/luci-app-disks-info
+SourceName: luci-app-disks-info
+License: MIT
+Section: luci
+SourceDateEpoch: 1663627469
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 6627
+Description:  Information about connected disk devices (partitions, filesystems, SMART).

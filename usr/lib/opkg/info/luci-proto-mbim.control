@@ -1,0 +1,11 @@
+Package: luci-proto-mbim
+Version: git-23.137.84224-37176dc
+Depends: libc, umbim
+Source: package/luci-proto-mbim
+SourceName: luci-proto-mbim
+Section: luci
+SourceDateEpoch: 1684365824
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1535
+Description:  Support for MBIM

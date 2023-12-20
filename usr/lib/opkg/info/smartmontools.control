@@ -1,0 +1,16 @@
+Package: smartmontools
+Version: 7.3-2
+Depends: libc, libstdcpp6
+Source: package/smartmontools
+SourceName: smartmontools
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: utils
+SourceDateEpoch: 1682110018
+Maintainer: Maxim Storchak <m.storchak@gmail.com>
+Architecture: x86_64
+Installed-Size: 228066
+Description:  smartmontools contains utility programs (smartctl) to
+ control/monitor storage systems using the Self-Monitoring, Analysis
+ and Reporting Technology System (S.M.A.R.T.) built into most modern
+ ATA and SCSI disks. It is derived from smartsuite.

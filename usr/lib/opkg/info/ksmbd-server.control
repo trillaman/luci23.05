@@ -1,0 +1,14 @@
+Package: ksmbd-server
+Version: 3.4.8-1
+Depends: libc, kmod-fs-ksmbd, libnl-core200, libnl-genl200
+Source: package/ksmbd-tools
+SourceName: ksmbd-server
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: net
+SourceDateEpoch: 1682236934
+Architecture: x86_64
+Installed-Size: 119784
+Description:  installs: ksmbd.mountd
+ 
+ This provides the basic fileserver service and is the minimum needed to serve 'guest only' file shares or use a existing user database file ksmbdpwd.db.

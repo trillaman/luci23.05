@@ -1,0 +1,12 @@
+Package: ddns-scripts-noip
+Version: 2.8.2-40
+Depends: libc, ddns-scripts
+Provides: ddns-scripts_no-ip_com
+Source: package/ddns-scripts
+SourceName: ddns-scripts-noip
+License: GPL-2.0
+Section: net
+SourceDateEpoch: 1697615201
+Architecture: all
+Installed-Size: 1191
+Description:  Dynamic DNS Client scripts extension for "no-ip.com".

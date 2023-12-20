@@ -1,0 +1,10 @@
+Package: luci-i18n-p910nd-pl
+Version: git-23.281.54229-cd81f2f
+Depends: libc, luci-app-p910nd
+Source: package/luci-app-p910nd
+SourceName: luci-i18n-p910nd-pl
+Section: luci
+SourceDateEpoch: 1696777429
+Architecture: all
+Installed-Size: 726
+Description:  Translation for luci-app-p910nd - Polski (Polish)

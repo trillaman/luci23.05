@@ -1,0 +1,14 @@
+Package: libucode20230711
+Version: 2023-11-07-a6e75e02-1
+Depends: libc, libjson-c5
+Provides: libucode
+Source: package/ucode
+SourceName: libucode
+License: ISC
+Section: libs
+SourceDateEpoch: 1684680884
+ABIVersion: 20230711
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: x86_64
+Installed-Size: 75364
+Description:  The libucode package provides the shared runtime library for the ucode interpreter.

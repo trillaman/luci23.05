@@ -1,0 +1,11 @@
+Package: kmod-phy-realtek
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-libphy
+Source: package/linux
+SourceName: kmod-phy-realtek
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 6017
+Description:  Supports the Realtek 821x PHY.

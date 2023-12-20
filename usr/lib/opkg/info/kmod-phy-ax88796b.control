@@ -1,0 +1,12 @@
+Package: kmod-phy-ax88796b
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-libphy
+Source: package/linux
+SourceName: kmod-phy-ax88796b
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 1542
+Description:  Currently supports the Asix Electronics PHY found in the X-Surf 100
+ AX88796B package.

@@ -1,0 +1,15 @@
+Package: libnl-genl200
+Version: 3.7.0-1
+Depends: libc, libnl-core200
+Provides: libnl-genl
+Source: package/libnl
+SourceName: libnl-genl
+License: LGPL-2.1
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1684680884
+ABIVersion: 200
+CPE-ID: cpe:/a:libnl_project:libnl
+Architecture: x86_64
+Installed-Size: 8275
+Description:  Generic Netlink Library Functions

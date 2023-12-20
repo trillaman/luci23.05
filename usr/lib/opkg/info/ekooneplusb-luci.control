@@ -1,0 +1,14 @@
+Package: ekooneplusb-luci
+Version: 20230728
+Depends: libc, block-mount, kmod-usb-storage, kmod-usb-storage-uas, kmod-fs-f2fs, mkf2fs, f2fsck, kmod-fs-ext4, e2fsprogs, kmod-fs-vfat, kmod-nls-cp437, kmod-nls-iso8859-1, kmod-fs-ntfs3, kmod-fs-exfat, luci-app-p910nd, luci-i18n-p910nd-pl, kmod-usb-printer, p910nd, luci-app-ksmbd, luci-i18n-ksmbd-pl, ksmbd-server, wsdd2, usb-modeswitch, kmod-usb-net, kmod-usb-net-rndis, kmod-usb-net-cdc-ether, luci-proto-3g, comgt, kmod-usb-serial, kmod-usb-serial-option, kmod-usb-serial-sierrawireless, kmod-usb-serial-qualcomm, kmod-usb-acm, luci-proto-ncm, comgt-ncm, kmod-usb-net-cdc-ncm, kmod-usb-net-huawei-cdc-ncm, luci-proto-mbim, umbim, kmod-usb-net-cdc-mbim, luci-proto-qmi, uqmi, kmod-usb-net-qmi-wwan, luci-app-openvpn, luci-i18n-openvpn-pl, openvpn-openssl, openvpn-easy-rsa
+Source: package/ekooneplluciprofiles
+SourceName: ekooneplusb-luci
+Section: admin
+SourceDateEpoch: 1690613394
+Maintainer: Cezary Jackiewicz <cezary@eko.one.pl>
+Architecture: all
+Installed-Size: 96
+Description:  eko.one.pl Services
+ .
+ This meta package contains only the dependencies required for
+ USB functionality in LuCI.

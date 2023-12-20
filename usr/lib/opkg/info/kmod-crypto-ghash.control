@@ -1,0 +1,11 @@
+Package: kmod-crypto-ghash
+Version: 5.15.137-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-crypto-gf128, kmod-crypto-hash
+Source: package/linux
+SourceName: kmod-crypto-ghash
+License: GPL-2.0
+Section: kernel
+SourceDateEpoch: 1684680884
+Architecture: x86_64
+Installed-Size: 195
+Description:  GHASH digest CryptoAPI module

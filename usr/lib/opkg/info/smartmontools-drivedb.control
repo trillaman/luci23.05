@@ -1,0 +1,13 @@
+Package: smartmontools-drivedb
+Version: 7.3-2
+Depends: libc
+Source: package/smartmontools
+SourceName: smartmontools-drivedb
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: utils
+SourceDateEpoch: 1682110018
+Maintainer: Maxim Storchak <m.storchak@gmail.com>
+Architecture: all
+Installed-Size: 54132
+Description:  Database of known drives and USB bridges for smartctl and smartd.

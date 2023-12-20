@@ -1,0 +1,12 @@
+Package: luci-app-adblock
+Version: git-23.189.72983-3072876
+Depends: libc, adblock
+Source: package/luci-app-adblock
+SourceName: luci-app-adblock
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1698923143
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 9130
+Description:  LuCI support for Adblock

@@ -1,0 +1,11 @@
+Package: luci-i18n-adblock-pl
+Version: git-23.306.39943-3d6a174
+Depends: libc, luci-app-adblock
+Source: package/luci-app-adblock
+SourceName: luci-i18n-adblock-pl
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1698923143
+Architecture: all
+Installed-Size: 5402
+Description:  Translation for luci-app-adblock - Polski (Polish)

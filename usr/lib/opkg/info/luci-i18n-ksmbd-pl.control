@@ -1,0 +1,10 @@
+Package: luci-i18n-ksmbd-pl
+Version: git-23.306.39943-3d6a174
+Depends: libc, luci-app-ksmbd
+Source: package/luci-app-ksmbd
+SourceName: luci-i18n-ksmbd-pl
+Section: luci
+SourceDateEpoch: 1698923143
+Architecture: all
+Installed-Size: 1347
+Description:  Translation for luci-app-ksmbd - Polski (Polish)

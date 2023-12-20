@@ -1,0 +1,3 @@
+/usr/sbin/sensors
+/lib/upgrade/keep.d/lm-sensors
+/etc/init.d/lm-sensors

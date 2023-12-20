@@ -1,0 +1,14 @@
+Package: uhttpd
+Version: 2023-06-25-34a8a74d-1
+Depends: libc, libubox20230523, libblobmsg-json20230523, libjson-script20230523, libjson-c5
+Source: package/uhttpd
+SourceName: uhttpd
+License: ISC
+Section: net
+SourceDateEpoch: 1684680884
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 29147
+Description:  uHTTPd is a tiny single threaded HTTP server with TLS, CGI and Lua
+ support. It is intended as a drop-in replacement for the Busybox
+ HTTP daemon.

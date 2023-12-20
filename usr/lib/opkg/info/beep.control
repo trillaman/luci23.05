@@ -1,0 +1,12 @@
+Package: beep
+Version: 1.4.12-6
+Depends: libc, kmod-pcspkr
+Source: package/beep
+SourceName: beep
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: sound
+SourceDateEpoch: 1682110018
+Architecture: x86_64
+Installed-Size: 7128
+Description:  This program plays beeps through the PC speaker

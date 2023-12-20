@@ -1,0 +1,11 @@
+Package: luci-i18n-commands-pl
+Version: git-23.301.56412-787ab17
+Depends: libc, luci-app-commands
+Source: package/luci-app-commands
+SourceName: luci-i18n-commands-pl
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1698507612
+Architecture: all
+Installed-Size: 1285
+Description:  Translation for luci-app-commands - Polski (Polish)

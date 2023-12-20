@@ -1,0 +1,11 @@
+Package: luci-i18n-disks-info-pl
+Version: git-22.055.56980-752dfd4
+Depends: libc, luci-app-disks-info
+Source: package/luci-app-disks-info
+SourceName: luci-i18n-disks-info-pl
+License: MIT
+Section: luci
+SourceDateEpoch: 1663627469
+Architecture: all
+Installed-Size: 2231
+Description:  Translation for luci-app-disks-info - Polski (Polish)

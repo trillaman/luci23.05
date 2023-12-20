@@ -1,0 +1,3 @@
+/etc/uci-defaults/backupandrestore.sh
+/usr/bin/restorepkgslist.sh
+/usr/bin/backuppkgslist.sh

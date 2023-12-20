@@ -1,0 +1,12 @@
+Package: kmod-mt76-connac
+Version: 5.15.137+2023-08-14-b14c2351-1
+Depends: kernel (=5.15.137-1-8f468338fcdf9df0aa1a3c5787b861f6), kmod-mac80211, kmod-mt76-core
+Source: package/mt76
+SourceName: kmod-mt76-connac
+License: GPLv2
+Section: kernel
+SourceDateEpoch: 1684680884
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 25719
+Description:  MediaTek MT7615/MT79xx wireless driver common code

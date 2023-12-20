@@ -1,0 +1,4 @@
+/lib/modules/5.15.137/sha256_generic.ko
+/lib/modules/5.15.137/libsha256.ko
+/lib/modules/5.15.137/sha256-ssse3.ko
+/etc/modules.d/09-crypto-sha256

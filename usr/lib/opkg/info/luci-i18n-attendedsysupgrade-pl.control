@@ -1,0 +1,10 @@
+Package: luci-i18n-attendedsysupgrade-pl
+Version: git-23.306.39943-3d6a174
+Depends: libc, luci-app-attendedsysupgrade
+Source: package/luci-app-attendedsysupgrade
+SourceName: luci-i18n-attendedsysupgrade-pl
+Section: luci
+SourceDateEpoch: 1698923143
+Architecture: all
+Installed-Size: 2137
+Description:  Translation for luci-app-attendedsysupgrade - Polski (Polish)

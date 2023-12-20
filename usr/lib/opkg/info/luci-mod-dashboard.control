@@ -1,0 +1,12 @@
+Package: luci-mod-dashboard
+Version: git-23.306.38853-672fd9d
+Depends: libc, luci-base, libiwinfo20230701
+Source: package/luci-mod-dashboard
+SourceName: luci-mod-dashboard
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1698922053
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 6697
+Description:  LuCI Dashboard Pages

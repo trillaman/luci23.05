@@ -1,0 +1,11 @@
+Package: luci-app-p910nd
+Version: git-20.108.38431-8f34e10
+Depends: libc, luci-compat, p910nd, luci-lua-runtime
+Source: package/luci-app-p910nd
+SourceName: luci-app-p910nd
+Section: luci
+SourceDateEpoch: 1696777429
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1279
+Description:  p910nd - Printer server module
